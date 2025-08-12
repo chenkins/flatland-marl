@@ -1,5 +1,5 @@
 # contains all requirements to run the tests by running ```tox -e py36,py37```
-tox>=3.5.2
+tox>=3.5.2,<3.6
 pytest>=3.8.2,<5
 pytest-runner>=4.2
 Click>=7.0
@@ -24,3 +24,5 @@ ipycanvas
 graphviz
 imageio
 dataclasses
+#supersuit
+stable-baselines3==1.0
