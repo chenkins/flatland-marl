@@ -24,5 +24,3 @@ ipycanvas
 graphviz
 imageio
 dataclasses
-#supersuit
-stable-baselines3==1.0
